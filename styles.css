@@ -1,0 +1,78 @@
+body{
+   
+}
+
+.heading{
+    padding:100px;
+    color:white;
+}
+
+h1{
+    text-align: center;
+    color:white;
+    padding: 50px;
+    font-family:cinzel decorative;
+
+}
+p{
+    text-align: center;
+    color:white;
+    padding:25px;
+}
+.login{
+    display:block;
+    color:white;
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+}
+.details{
+    display: flex;
+}
+
+.images{
+    display:list-item;
+    padding-left:230px;
+    padding-top:50px;
+   
+
+}
+h2{
+    text-align: center;
+    color: white;
+    padding-top:50px;
+}
+
+.quotes{
+    color:white;
+    display:flex;
+    padding-top:100px;
+    margin:auto;
+    width:100%;
+    font-family:carattre;
+}
+.books{
+    padding-top:150px;
+}
+.imagesbooks{
+    margin:auto;
+    width:100%;
+    padding-left:100px;
+    padding-top:50px;
+    
+}
+
+.recommend{
+    height:50%;
+    
+}
+.end{
+    text-align: center;
+    padding-top:200px;
+    padding-bottom:200px;
+    color:white;
+}
+.end:hover{
+    color:brown;
+}
